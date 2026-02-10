@@ -12,6 +12,7 @@ The repo contains feature engineering for daily ETH market data, clustering pipe
 
 ## Demo
 
+https://br7bvza6dm4hhcdruzgmrm.streamlit.app/
 
 https://github.com/user-attachments/assets/adf2500b-d6ec-4e49-8597-a8ae3000b608
 
